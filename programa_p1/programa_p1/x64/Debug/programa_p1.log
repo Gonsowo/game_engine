@@ -1,0 +1,106 @@
+﻿  Bonus.cpp
+  Camera.cpp
+  Color.cpp
+  Cube.cpp
+  Cylinder.cpp
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Cylinder.cpp(10,119): warning C4244: 'argumento': conversión de 'float' a 'GLint'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Cylinder.cpp(10,100): warning C4244: 'argumento': conversión de 'float' a 'GLint'; posible pérdida de datos
+  Enemy.cpp
+  Game.cpp
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Score.h(19,7): warning C4305: 'argumento': truncamiento de 'double' a 'S'
+          with
+          [
+              S=float
+          ]
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Score.h(27,80): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\ScoreboardLoader.h(25,16): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(21,64): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(33,64): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(89,47): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(96,52): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(105,52): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(114,52): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(136,22): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(137,21): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(145,22): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(146,21): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(154,22): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(155,21): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(163,22): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(164,21): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(172,22): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(173,21): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(235,15): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(301,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(304,22): warning C4244: 'argumento': conversión de 'const double' a 'const float'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(311,14): warning C4244: 'argumento': conversión de 'const double' a 'const float'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Game.cpp(314,45): warning C4244: '=': conversión de '_Rep' a 'long'; posible pérdida de datos
+          with
+          [
+              _Rep=__int64
+          ]
+  Model.cpp
+  ModelLoader.cpp
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\ModelLoader.cpp(78,17): warning C4244: 'argumento': conversión de 'double' a 'S'; posible pérdida de datos
+          with
+          [
+              S=float
+          ]
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\ModelLoader.cpp(77,17): warning C4244: 'argumento': conversión de 'double' a 'S'; posible pérdida de datos
+          with
+          [
+              S=float
+          ]
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\ModelLoader.cpp(76,37): warning C4244: 'argumento': conversión de 'double' a 'S'; posible pérdida de datos
+          with
+          [
+              S=float
+          ]
+  Obstacle.cpp
+  Player.cpp
+  Prism.cpp
+  programa_p1.cpp
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Score.h(19,7): warning C4305: 'argumento': truncamiento de 'double' a 'S'
+          with
+          [
+              S=float
+          ]
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Score.h(27,80): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\ScoreboardLoader.h(25,16): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\programa_p1.cpp(17,25): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\programa_p1.cpp(18,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+  Scene.cpp
+  Score.cpp
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Score.h(19,7): warning C4305: 'argumento': truncamiento de 'double' a 'S'
+          with
+          [
+              S=float
+          ]
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Score.h(27,80): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Score.cpp(9,51): warning C4305: 'argumento': truncamiento de 'double' a 'S'
+          with
+          [
+              S=float
+          ]
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Score.cpp(9,66): warning C4244: 'argumento': conversión de 'int' a 'S'; posible pérdida de datos
+          with
+          [
+              S=float
+          ]
+  ScoreboardLoader.cpp
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\ScoreboardLoader.h(25,16): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Solid.cpp
+  Sphere.cpp
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Sphere.cpp(10,98): warning C4244: 'argumento': conversión de 'float' a 'GLint'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Sphere.cpp(10,70): warning C4244: 'argumento': conversión de 'float' a 'GLint'; posible pérdida de datos
+  Teapot.cpp
+  Text.cpp
+  Generando código...
+  Compilando...
+  Torus.cpp
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Torus.cpp(9,83): warning C4244: 'argumento': conversión de 'float' a 'GLint'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\programa_p1\Torus.cpp(9,65): warning C4244: 'argumento': conversión de 'float' a 'GLint'; posible pérdida de datos
+  Triangle.cpp
+  vector3D.cpp
+  Generando código...
+  programa_p1.vcxproj -> C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Primer semestre\Programacion avanzada\Practica 3\programa_p1\x64\Debug\programa_p1.exe

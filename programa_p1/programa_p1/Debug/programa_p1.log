@@ -1,0 +1,39 @@
+﻿  Game.cpp
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Score.h(16,7): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(15,63): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(24,63): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(59,47): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(66,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(74,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(85,22): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(86,21): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(94,22): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(95,21): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(103,22): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(104,21): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(112,22): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(113,21): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(121,22): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(122,21): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(233,20): warning C4244: 'argumento': conversión de 'const double' a 'const float'; posible pérdida de datos
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.cpp(234,45): warning C4244: '=': conversión de '_Rep' a 'long'; posible pérdida de datos
+          with
+          [
+              _Rep=__int64
+          ]
+  Generate.cpp
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Score.h(16,7): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  programa_p1.cpp
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Score.h(16,7): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\programa_p1.cpp(17,25): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\programa_p1.cpp(18,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+  Scene.cpp
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Score.h(16,7): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.h(39,9): error C2065: 'Scene': identificador no declarado
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.h(39,15): error C2059: error de sintaxis: '>'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.h(40,7): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.h(40,7): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.h(40,18): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\Gonzalo\OneDrive - Universidad Rey Juan Carlos\Academico\Segundo año\Programacion avanzada\programa_p1\programa_p1\Game.h(54,28): error C2614: 'Game': inicialización de miembro no válida: 'gamescene' no es una base o miembro
+  Triangle.cpp
+  Generando código...
